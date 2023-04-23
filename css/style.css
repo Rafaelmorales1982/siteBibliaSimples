@@ -1,0 +1,31 @@
+/* =========================== SEÇÃO DE TAGS ================================*/
+
+h1 {
+  color: blue;
+}
+/*
+img {
+    background-color: red;
+    width: 15%;
+}
+*/
+/* =========================== SEÇÃO DE CLASSES ================================*/
+.biblia {
+  background-color: royalblue;
+  width: 10%;
+}
+
+.sinal-cruz {
+  background-color: sandybrown;
+}
+
+/* =========================== SEÇÃO DE IDS ================================*/
+#cabecalho {
+    color: chartreuse;
+}
+
+/*Utilizando pseudo classe*/
+
+#cabecalho:hover {
+  color: black;
+}
